@@ -1,0 +1,11 @@
+.vscode*
+
+# generated targets. TODO : needs expansion
+*.js 
+*.wasm
+*.html
+
+# Binary files
+*.o
+*.a
+*.so
